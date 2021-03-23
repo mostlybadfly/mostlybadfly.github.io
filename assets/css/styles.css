@@ -6,3 +6,8 @@
 a:visited {
   color: whitesmoke;
 }
+
+a:hover {
+  text-decoration: none;
+  color: whitesmoke;
+}
