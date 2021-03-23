@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Identity Stitching 1"
+title:  "Identity Stitching 2"
 date:   2021-03-22
 categories: identity
 ---
