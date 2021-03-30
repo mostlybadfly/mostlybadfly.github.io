@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="home">
-  <img style="display: block; margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/images/badfly_smoke_lg.png"
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/images/badfly_smoke_sm.png"
     alt=""/>
   <h1>Welcome!</h1>
   <div class="content">
